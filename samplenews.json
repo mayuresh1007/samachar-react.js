@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rebecca Bellan",
+            "title": "Swedish EV-maker Polestar reportedly preparing to go SPAC at $21B valuation",
+            "description": "Swedish electric vehicle maker Polestar is reportedly preparing to go public via special purpose acquisition with Gores Guggenheim Inc., reports the Wall Street Journal citing people familiar with the matter. The SPAC deal, which sources say could be reached …",
+            "url": "https://techcrunch.com/2021/09/26/swedish-ev-maker-polestar-reportedly-preparing-to-go-spac-at-21b-valuation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/04/polestar-3.jpg?w=600",
+            "publishedAt": "2021-09-27T06:13:23Z",
+            "content": "Swedish electric vehicle maker Polestar is reportedly preparing to go public via special purpose acquisition with Gores Guggenheim Inc., reports the Wall Street Journal citing people familiar with th… [+1871 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Catherine Shu",
+            "title": "Signal, the encrypted messaging app, is currently down for many users",
+            "description": "Signal is down for many users right now. Its status website says the encrypted messaging app is “experiencing technical difficulties” and many people are getting an in-app error message that says the same thing. The company says it is “working hard to restore…",
+            "url": "https://techcrunch.com/2021/09/26/signal-the-encrypted-messaging-app-is-currently-down-for-many-users/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2018/10/GettyImages-597888146.jpg?w=600",
+            "publishedAt": "2021-09-27T05:12:12Z",
+            "content": "Signal is down for many users right now. Its status website says the encrypted messaging app is “experiencing technical difficulties” and many people are getting an in-app error message that says the… [+856 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kate Park",
+            "title": "Thailand's fintech startup Ascend Money lands $150M at a $1.5B valuation",
+            "description": "Ascend Money, a Thailand-based fintech startup behind TrueMoney, an e-wallet service, announced today it has raised a $150 million Series C round at a valuation of $1.5 billion. The Series C round was led by Charoen Pokphand Group, which is a major shareholde…",
+            "url": "https://techcrunch.com/2021/09/26/thailands-fintech-startup-ascend-money-lands-150m-at-a-1-5b-valuation/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/Logo-2-Ascend-Money.jpg?w=600",
+            "publishedAt": "2021-09-27T05:00:23Z",
+            "content": "Ascend Money, a Thailand-based fintech startup behind TrueMoney, an e-wallet service, announced today it has raised a $150 million Series C round at a valuation of $1.5 billion.\r\nThe Series C round w… [+3877 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Catherine Shu",
+            "title": "Oraan raises $3M to increase financial inclusion among Pakistani women",
+            "description": "After working as an investment banker in Canada for a decade, Halima Iqbal moved back to Pakistan in 2017 and quickly realized how difficult it is for women to access financial services. “I had a really hard time opening up a basic bank account. It took me ab…",
+            "url": "https://techcrunch.com/2021/09/26/oraan-raises-3m-to-increase-financial-inclusion-among-pakistani-women/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/ORAAN7X4.jpg?w=700",
+            "publishedAt": "2021-09-27T04:00:53Z",
+            "content": "After working as an investment banker in Canada for a decade, Halima Iqbal moved back to Pakistan in 2017 and quickly realized how difficult it is for women to access financial services. I had a real… [+4828 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ingrid Lunden",
+            "title": "London's Dice raises $122M at a $400M valuation for its intelligent event discovery and booking platform",
+            "description": "Covid-19 really put the kibosh on live events in the last 18 months, but in the world of tech, it also meant that live event startups that found a way to survive and grow throughout the period got a lot of attention. In the latest development, Dice — a London…",
+            "url": "https://techcrunch.com/2021/09/26/londons-dice-raises-122m-at-a-400m-valuation-for-its-intelligent-event-discovery-and-booking-platform/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/dice-venue.jpg?w=457",
+            "publishedAt": "2021-09-27T04:00:28Z",
+            "content": "Covid-19 really put the kibosh on live events in the last 18 months, but in the world of tech, it also meant that live event startups that found a way to survive and grow throughout the period got a … [+9125 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Catherine Shu",
+            "title": "Aspire raises $158M Series B to build a full-stack “financial operating system” for Southeast Asian businesses",
+            "description": "Aspire, the Singapore-based neobank that wants to become an “end-to-end financial operating system” for Southeast Asian businesses, is moving closer to its aspirations with a $158 million Series B. The round consisted of $58 million in equity and $100 million…",
+            "url": "https://techcrunch.com/2021/09/26/aspire-raises-158m-series-b-to-build-a-full-stack-financial-operating-system-for-southeast-asian-businesses/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/Aspire-all-in-one-finance-os.png?w=711",
+            "publishedAt": "2021-09-27T03:00:20Z",
+            "content": "Aspire, the Singapore-based neobank that wants to become an end-to-end financial operating system for Southeast Asian businesses, is moving closer to its aspirations with a $158 million Series B. The… [+3400 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Kate Park",
+            "title": "Singapore-based logistics startup Ninja Van secures $578M Series E",
+            "description": "Ninja Van, a Singapore-based logistics startup, has closed a $578 million Series E round to support its operations infrastructure and technology systems growth. Investors include China’s Alibaba Group as well as existing investors DPDgroup’s GeoPost, Facebook…",
+            "url": "https://techcrunch.com/2021/09/26/singapore-based-logistics-startup-ninja-van-secures-578m-series-e/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/Customer-using-NinjaChat.jpg?w=600",
+            "publishedAt": "2021-09-27T00:53:39Z",
+            "content": "Ninja Van, a Singapore-based logistics startup, has closed a $578 million Series E round to support its operations infrastructure and technology systems growth.\r\nInvestors include Chinas Alibaba Grou… [+1399 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Rita Liao",
+            "title": "China roundup: Meng Wanzhou's release and Huawei's future",
+            "description": "Hello and welcome back to TechCrunch’s China roundup, a digest of recent events shaping the Chinese tech landscape and what they mean to people in the rest of the world. On Friday, Huawei’s chief financial executive Meng Wanzhou was released from house arrest…",
+            "url": "https://techcrunch.com/2021/09/26/china-roundup-meng-wanzhous-release-and-huaweis-future/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/GettyImages-1234459743.jpg?w=580",
+            "publishedAt": "2021-09-26T15:41:09Z",
+            "content": "Hello and welcome back to TechCrunchs China roundup, a digest of recent events shaping the Chinese tech landscape and what they mean to people in the rest of the world.\r\nOn Friday, Huawei’s chief fin… [+5765 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Ashish Bhatia",
+            "title": "Facebook’s wearable glasses can succeed where Google Glass flopped",
+            "description": "While Google tried to invent the design of its new glasses — using its imagination about what people wanted -- Facebook leveraged a design that already has some certainties around it.",
+            "url": "https://techcrunch.com/2021/09/26/facebooks-wearable-glasses-can-succeed-where-google-glass-flopped/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2021/09/2B4A4D9D-8F90-40EC-B139-0CBB50C06E85-3669-000001E063A272C1.jpg?w=600",
+            "publishedAt": "2021-09-26T15:08:03Z",
+            "content": "Facebook recently announced its highly anticipated wearable sunglasses that can record video from a users perspective. Despite many of our legitimately squeamish reactions to this new product, one of… [+4985 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch",
+                "name": "TechCrunch"
+            },
+            "author": "Sarah Perez",
+            "title": "This Week in Apps: PayPal launches 'super app,' Twitter adds crypto tips, Apple won't take Fortnite back",
+            "description": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy. The app industry continues to grow, with a record 218 billion downloads and $143 billion in global consu…",
+            "url": "https://techcrunch.com/2021/09/25/this-week-in-apps-paypal-launches-super-app-twitter-adds-crypto-tips-apple-wont-take-fortnite-back/",
+            "urlToImage": "https://techcrunch.com/wp-content/uploads/2020/10/this-week-in-apps-splash-2.png?w=753",
+            "publishedAt": "2021-09-25T17:30:01Z",
+            "content": "Welcome back to This Week in Apps, the weekly TechCrunch series that recaps the latest in mobile OS news, mobile applications and the overall app economy.\r\nThe app industry continues to grow, with a … [+20127 chars]"
+        }
+    ]
+}
