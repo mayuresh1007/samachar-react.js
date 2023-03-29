@@ -1,5 +1,7 @@
 # Getting Started with Create React App
-
+## To use this Samachar(NewsApp) you need the // apiKey:'signin to https://newsapi.org' 
+### get your key and follow the steps
+### src>>components>>News.js -- line number 14 add apiKey:'signin to https://newsapi.org' 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
